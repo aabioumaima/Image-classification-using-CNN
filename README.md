@@ -10,4 +10,4 @@ This tutorial will help us to understand why CNN is preferred over ANN for image
  .Dataset:
   CIFAR-10 is an image dataset which can be downloaded from here. It contains 60000 tiny color images with the size of 32 by 32 pixels. The dataset consists of 10 different classes (i.e. airplane, automobile, bird, cat, deer, dog, frog, horse, ship and truck), in which each of those classes consists of 6000 images. On the other hand, CNN is used in this project due to its robustness when it comes to image classification task.
   
-  --> link to download the datasets : https://www.cs.toronto.edu/~kriz/cifar.html
+  --> link to download the dataset : https://www.cs.toronto.edu/~kriz/cifar.html
